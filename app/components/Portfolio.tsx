@@ -56,7 +56,7 @@ const PROJECTS: Project[] = [
         color: "#00aaff",
         image: "/project-thumbnail/lustre.webp",
     },
-    {
+    /* {
         title: "CRUD Ops with REST API",
         description: "A React CRUD app that fetches, displays, and edits user data from a REST API, featuring dynamic form inputs and real-time data rendering.",
         tags: ["React.js", "TypeScript", "Next.js", "CSS", "REST API"],
@@ -65,7 +65,7 @@ const PROJECTS: Project[] = [
         repoUrl: "#",
         color: "#ffd93d",
         image: "/project-thumbnail/curd-api.webp",
-    },
+    }, */
     {
         title: "Shreemat Orchid LED Light",
         description: "A B2B product showcase catalog website for Shreemat Orchid — an Indian LED lighting manufacturer offering indoor panels, COB lights, and solar outdoor solutions, built with a detailed product showcase and inquiry flow.",
@@ -86,7 +86,7 @@ const PROJECTS: Project[] = [
         color: "#c77dff",
         image: "/project-thumbnail/weather.webp",
     },
-    {
+    /* {
         title: "Calculator",
         description: "A clean, responsive calculator app supporting basic arithmetic operations with a minimal UI and keyboard-friendly input.",
         tags: ["HTML", "CSS", "JavaScript"],
@@ -95,9 +95,9 @@ const PROJECTS: Project[] = [
         repoUrl: "#",
         color: "#ff9f43",
         image: "/project-thumbnail/calculator.webp",
-    },
+    }, */
     {
-        title: "PSD to HTML with Bootstrap",
+        title: "Landing Page PSD to HTML Code",
         description: "A PSD to HTML conversion — a responsive hospital website with sections for services, doctor profiles, gallery, blog, and a patient enquiry form, featuring smooth GSAP scroll animations and a fully responsive layout.",
         tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "GSAP"],
         category: "Frontend",
@@ -107,7 +107,7 @@ const PROJECTS: Project[] = [
         image: "/project-thumbnail/hospital.webp",
     },
     {
-        title: "PSD to HTML & CSS",
+        title: "Landing page PSD to HTML Code",
         description: "A PSD to HTML conversion — a restaurant landing page with a food menu, special recipes section, pricing display, working hours, and a mobile app promotion — built as a fully responsive multi-section dining website.",
         tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
         category: "Frontend",
@@ -117,7 +117,7 @@ const PROJECTS: Project[] = [
         image: "/project-thumbnail/restaurent.webp",
     },
     {
-        title: "PSD to HTML",
+        title: "landing Page with HTML Code ",
         description: "A PSD to HTML conversion — a responsive restaurant landing page with a newsletter subscription section, built with a clean layout and modern UI design.",
         tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
         category: "Frontend",

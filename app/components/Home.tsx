@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
 
-const ROLES = ["Full Stack Developer", "React Developer", "Next.js Developer", "UI/UX Enthusiast"];
+const ROLES = ["Frontend MERN Developer", "React.js Developer", "Next.js Developer", "Full Stack Developer"];
 
 export default function Home() {
     const [roleIndex, setRoleIndex] = useState(0);
@@ -58,7 +58,7 @@ export default function Home() {
                 {/* Text */}
                 <div className="animate-fade-in-up">
                     <p className="text-accent font-mono text-sm mb-3 tracking-widest uppercase">
-                        Hello, World! 👋
+                        Hello! 👋
                     </p>
 
                     <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-4">
@@ -72,8 +72,10 @@ export default function Home() {
                     </h2>
 
                     <p className="hero-description text-text-secondary max-w-md leading-relaxed">
-                        I craft clean, performant web experiences with modern technologies.
-                        A passionate Frontend Web Developer based In WestBengal, India.
+                        {/* I craft clean, performant web experiences with modern technologies.
+                        A passionate Frontend Web Developer based In WestBengal, India. */}
+                        I build custom <b><i>ultra-fast B2B Websites and E-commerce stores</i></b> that load instantly on mobile,
+                        even on slow networks. Unlike heavy template sites, custom coded sites rank better on Google and don't glitch
                     </p>
 
                     <div className="flex flex-wrap gap-4 mb-5 mt-5">

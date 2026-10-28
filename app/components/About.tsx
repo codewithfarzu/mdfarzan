@@ -1,13 +1,13 @@
-const SKILLS = [
-    { name: "HTML / CSS", level: 80 },
-    { name: "JavaScript", level: 30 },
-    { name: "jQuery / Sass", level: 30 },
-    { name: "React / Next.js", level: 35 },
-    { name: "Tailwind CSS / Bootstrap", level: 85 },
-    { name: "TypeScript", level: 20 },
-    { name: "Node.js", level: 10 },
-    { name: "MongoDB / SQL", level: 10 },
-];
+// const SKILLS = [
+//     { name: "HTML / CSS", level: 80 },
+//     { name: "JavaScript", level: 30 },
+//     { name: "jQuery / Sass", level: 30 },
+//     { name: "React / Next.js", level: 35 },
+//     { name: "Tailwind CSS / Bootstrap", level: 85 },
+//     { name: "TypeScript", level: 20 },
+//     { name: "Node.js", level: 10 },
+//     { name: "MongoDB / SQL", level: 10 },
+// ];
 
 /* const STATS = [
     { value: "2", label: "Years Experience" },
@@ -45,8 +45,8 @@ export default function About() {
                                 ["Name", "Md Farzan Akhtar"],
                                 ["Email", "mdfarzan78@gmail.com"],
                                 ["Location", "West Bangal, India"],
-                                ["Degree", "B.A (Pursuing) / Diploma in Computer Science and Technology"],
-                                ["Certifictae","Frontend Development, Backend Development, Full Stack Development"],
+                                ["Degree", "Diploma in Computer Science and Technology, Bachelor of Arts"],
+                                ["Certifictae", "Frontend Development, Backend Development, Full Stack Development"],
                                 ["Freelance", "Available"],
                                 ["Languages", "Hindi, English"],
                             ].map(([key, val]) => (
