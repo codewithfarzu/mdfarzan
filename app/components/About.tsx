@@ -45,7 +45,7 @@ export default function About() {
                                 ["Name", "Md Farzan Akhtar"],
                                 ["Email", "mdfarzan78@gmail.com"],
                                 ["Location", "West Bangal, India"],
-                                ["Degree", "Diploma in Computer Science and Technology, Bachelor of Arts"],
+                                ["Degree", "Diploma in Computer Science and Technology | Bachelor of Arts"],
                                 ["Certifictae", "Frontend Development, Backend Development, Full Stack Development"],
                                 ["Freelance", "Available"],
                                 ["Languages", "Hindi, English"],
