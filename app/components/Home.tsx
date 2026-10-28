@@ -75,7 +75,7 @@ export default function Home() {
                         {/* I craft clean, performant web experiences with modern technologies.
                         A passionate Frontend Web Developer based In WestBengal, India. */}
                         I build custom <b><i>ultra-fast B2B Websites and E-commerce stores</i></b> that load instantly on mobile,
-                        even on slow networks. Unlike heavy template sites, custom coded sites rank better on Google and don't glitch
+                        even on slow networks. Unlike heavy template sites, custom-coded sites rank better on Google and don't glitch
                     </p>
 
                     <div className="flex flex-wrap gap-4 mb-5 mt-5">
